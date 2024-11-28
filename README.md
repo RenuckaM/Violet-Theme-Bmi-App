@@ -2,7 +2,7 @@
 
 A beautifully designed **BMI Calculator App** built with **Flutter**. This app calculates Body Mass Index (BMI) and categorizes users as **Underweight**, **Normal**, or **Overweight** based on their input. The app features a sleek and modern **violet theme** for an enhanced user experience.
 
-## Demo Click here (!https://violetbmipro.netlify.app/)
+## Demo [Click here!](https://violetbmipro.netlify.app/)
 
 ## Features
 
